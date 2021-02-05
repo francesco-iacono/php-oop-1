@@ -43,7 +43,7 @@
   $book2->description = "Londra, 1813. Simon Arthur Henry Fitzranulph Basset, nuovo duca di Hastings ed erede di uno dei titoli più antichi e prestigiosi d'Inghilterra, è uno scapolo assai desiderato. A dire il vero, è letteralmente perseguitato da schiere di madri dell'alta società che farebbero di tutto pur di combinare un buon matrimonio per le loro fanciulle in età da marito.";
   $book2->editor = "Mondadori";
   $book2->review = "";
-  var_dump($book1);
+  var_dump($book2);
 
 ?> 
 <!DOCTYPE html>
